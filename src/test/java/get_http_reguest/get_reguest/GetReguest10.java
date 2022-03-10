@@ -1,4 +1,4 @@
-package get_http_reguest;
+package get_http_reguest.get_reguest;
 
 import base_url.DummyBaseUrl;
 import io.restassured.path.json.JsonPath;

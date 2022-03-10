@@ -1,4 +1,4 @@
-package get_http_reguest;
+package get_http_reguest.get_reguest;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;

@@ -1,4 +1,4 @@
-package get_http_reguest;
+package get_http_reguest.get_reguest;
 
 import io.restassured.response.Response;
 import org.hamcrest.Matchers;
